@@ -18,7 +18,7 @@
 </p>
 
 
-[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=rohitkr0807.rohitkr0807)]
+![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=rohitkr0807.rohitkr0807)
 
 
 
