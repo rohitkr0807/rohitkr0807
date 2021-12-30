@@ -1,27 +1,39 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate 🤖 Software developer</h3>
+<h2 align="center">Hola 👋, I'm Rohit Kumar</h2>
+<h3 align="center">Senior Software Developer</h3>
 
-- 🌱 I’m currently learning **New Languages**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkr0807&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkr0807" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohitkr0807/](https://github.com/rohitkr0807/)
-
-- 📫 How to reach me **rohitkr0807@gmail.com**
+![wrapped (2)](https://visitor-badge.glitch.me/badge?page_id=rohitkr0807.rohitkr0807)
 
 
-**Languages and Tools:**  
+- 🔭 I’m currently working at [Pluang](https://github.com/emasdigi)
+- 🌱 I’m currently learning more about **NodeJs**
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/rohitkr0807)
+- 💬 Ask me about **NodeJs**
+- 📫 How to reach me [@Email](rohitkr0807@gmail.com), [@LinkedIn](https://www.linkedin.com/in/iitrrohit/)
+- ⚡ Fun fact: **You will always find me working on an awesome app**
+
+---
+
+📘 Latest Blog Articles
+
+
+
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rohitkr0807" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayushpgupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iitrrohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushpgupta" height="30" width="40" /></a>
+<a href="https://instagram.com/rohitkr0807" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayushpgupta" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<a href="https://github.com/rohitkr0807">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?include_all_commits=true&theme=material-palenight&username=rohitkr0807&show_icons=true" alt="Rohit's github stats" />
-</a>
-<a href="https://app.daily.dev/rohitkr0807"><img src="https://api.daily.dev/devcards/9ce825fad34b49c9a1fdd59b302e6904.png?r=tx3" width="400" alt="Rohit Kumar's Dev Card"/></a>
-
-<a href="https://github.com/rohitkr0807">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkr0807&layout=compact&theme=material-palenight" />
-</a>
-
-![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=rohitkr0807.rohitkr0807)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkr0807&show_icons=true&locale=en&count_private=true" alt="rohitkr0807" /></p>
